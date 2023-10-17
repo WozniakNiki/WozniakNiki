@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on a degree in Video Game Development at Macomb Community college
+- 🌱 I’m currently learning C++
+- 🤔 I’m looking for help with learning more about development.
+- 📫 How to reach me: email me wozniakn801@macomb.edu
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I love working on creative projects, from Writing Fantasy, Pixel artwork and drawing.
+  I currently work development API's with .Net and hope to learn more!!
+
 
 <!--
 **WozniakNiki/WozniakNiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
